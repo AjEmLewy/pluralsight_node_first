@@ -1,0 +1,30 @@
+{
+  "name": "pluralsight_node_first",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "start": "babel-node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjEmLewy/pluralsight_node_first.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjEmLewy/pluralsight_node_first/issues"
+  },
+  "homepage": "https://github.com/AjEmLewy/pluralsight_node_first#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.6.3",
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-latest": "^6.24.1",
+    "babel-register": "^6.26.0"
+  }
+}
