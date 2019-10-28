@@ -6,6 +6,7 @@ const server = express();
 
 server.get('/', (req, res) =>
 {
+    let a = "s";
     res.send("sss").status(200);
 });
 
